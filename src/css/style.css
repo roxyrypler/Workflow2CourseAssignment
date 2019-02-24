@@ -1,0 +1,353 @@
+/*320*/
+/* some colors:
+1. White: #F3F2E9
+2. Blue: #58B3EC
+3. Green: #54B3B7
+4. Purple: #9B6F91
+5. DarkBlue: #1F304B
+*/
+/* ---------------- HOME -----------------*/
+body {
+  background-color: #1F304B !important; }
+
+#navBg {
+  background-color: #F3F2E9 !important; }
+
+#navBgTwo {
+  background-color: #54B3B7 !important; }
+
+.navbar-brand {
+  font-family: 'Barlow Semi Condensed', sans-serif; }
+
+.navbar-nav {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  color: black !important; }
+
+.mainTextOne {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  text-align: center;
+  color: #F3F2E9 !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  padding-left: 40px; }
+
+.mainTextTwo {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  text-align: center;
+  color: #F3F2E9 !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  padding-left: 40px; }
+
+.Museumimg {
+  width: 50%;
+  display: block;
+  margin: 0 auto; }
+
+.panel-footer {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  text-align: center;
+  background: #54B3B7;
+  padding: 20px; }
+
+/* ------------  Visit  ---------------------*/
+.googleMaps {
+  padding-bottom: 20px; }
+
+.insideMuseumimg {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px; }
+
+.admission {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.Hours {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.hrHours {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border: 0; }
+
+.Accessibility {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.Foodanddrink {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.Shop {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.Location {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+/* ------------  Special Events and Exhibitions  ---------------------*/
+.VisitingProfessorofAeronautics {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.NightintheMuseum {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.EnergeticaExhibitiononLoan {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+/* ------------  Exhibition Spaces  ---------------------*/
+.nav-tabs {
+  border-bottom: 0px !important; }
+
+#menuTabs {
+  padding-left: 5px;
+  padding-right: 5px; }
+
+.tabButtonsHr {
+  padding: 0px;
+  margin: 5px; }
+
+#tabButtons {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  margin-top: 5px !important;
+  background: #9B6F91;
+  border-radius: 25px;
+  color: black;
+  display: flex; }
+
+.Cosmology {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.Evolution {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.Biology {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.Robotics {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.Ecology {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+/* ------------  Explore  ---------------------*/
+.forKids {
+  background-color: yellow;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  height: 100px;
+  text-align: right;
+  text-align: center;
+  background-color: #54B3B7;
+  font-family: 'Barlow Semi Condensed', sans-serif; }
+
+#forKidsDroppDown {
+  background-color: yellow;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #1F304B;
+  text-align: center;
+  color: #F3F2E9 !important;
+  font-family: 'Barlow Semi Condensed', sans-serif; }
+
+.antImg {
+  width: auto;
+  height: 100%;
+  float: left; }
+
+.forTeachers {
+  background-color: yellow;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  height: 100px;
+  background-color: #54B3B7;
+  font-family: 'Barlow Semi Condensed', sans-serif; }
+
+#forTeachersDroppDown {
+  background-color: yellow;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #1F304B;
+  text-align: center;
+  color: #F3F2E9 !important;
+  font-family: 'Barlow Semi Condensed', sans-serif; }
+
+.vrImg {
+  width: auto;
+  height: 100%;
+  float: left; }
+
+.forResearchers {
+  background-color: yellow;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  height: 100px;
+  background-color: #54B3B7;
+  font-family: 'Barlow Semi Condensed', sans-serif; }
+
+#forResearchersDroppDown {
+  background-color: yellow;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #1F304B;
+  text-align: center;
+  color: #F3F2E9 !important;
+  font-family: 'Barlow Semi Condensed', sans-serif; }
+
+.scientificImg {
+  width: auto;
+  height: 100%;
+  float: left; }
+
+.bottomImage {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+.droppDownButtons {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  background: #9B6F91;
+  border-radius: 25px;
+  color: black;
+  font-size: 15px;
+  display: grid;
+  text-align: center; }
+
+/* ------------  Get Involved  ---------------------*/
+.Support {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.SupportimgDiv {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px; }
+
+.Volunteer {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.VolunteerimgDiv {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px; }
+
+.Internships {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
+
+.formsAndInput {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  color: #F3F2E9 !important; }
